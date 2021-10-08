@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'data.jpg',
-    title: 'NYC-air-quality-data-visualiza',
+    title: 'NYC-air-quality-data-visualization',
     info: 'Dispalying NYC air quality in 2019. Showing how different factors might effect the air quality.',
     info2:
       'Dash library for building the data visualization. Using Flask as micro back-end for having the webpage temaplate and being deployed on Heroku. Using pandas to handle the data.',
